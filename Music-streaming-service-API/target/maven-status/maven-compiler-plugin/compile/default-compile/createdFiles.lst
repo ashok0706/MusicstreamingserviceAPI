@@ -1,0 +1,9 @@
+com\MCT\Music\streaming\service\API\Entity\Song.class
+com\MCT\Music\streaming\service\API\Repository\UserRepo.class
+com\MCT\Music\streaming\service\API\Service\AdminService.class
+com\MCT\Music\streaming\service\API\Entity\Users.class
+com\MCT\Music\streaming\service\API\MusicStreamingServiceApiApplication.class
+com\MCT\Music\streaming\service\API\Service\UserService.class
+com\MCT\Music\streaming\service\API\Repository\SongRepo.class
+com\MCT\Music\streaming\service\API\Controller\AdminController.class
+com\MCT\Music\streaming\service\API\Controller\UserController.class
